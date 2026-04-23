@@ -2,7 +2,7 @@
 
 Космический трекер беременности на React + Vite.
 
-### [App link_](https://ob-calc-ivf.vercel.app/)
+### [App link_baby_tracker (vercel)](https://baby-tracker-five-phi.vercel.app/)
 
 ## Что умеет приложение
 
